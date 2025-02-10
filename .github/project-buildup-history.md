@@ -12,3 +12,7 @@
 
 - Task summary: Spent another hour on this: fixed the README section that was missing the setup step — embarrassing oversight.
 - Deliverable: Solid now, moving on.
+## 2025-02-10 - Day 1: Problem discovery start
+
+- Task summary: Circled back: pushed a config tweak after noticing the wrong default param was being used.
+- Deliverable: Wrapped it up properly this time.

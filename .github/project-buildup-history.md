@@ -16,3 +16,7 @@
 
 - Task summary: Circled back: pushed a config tweak after noticing the wrong default param was being used.
 - Deliverable: Wrapped it up properly this time.
+## 2025-02-11 - Day 2: Research pass
+
+- Task summary: Used the next day to keep the momentum going for Edge AI Runtime Evaluation. I was still piecing things together, so I focused on trying to collect examples, competitor references, and raw notes before choosing features and wrote down the stuff that looked important. At this stage nothing was fully locked, so I kept a rough list of things that looked useful and ignored the rest for now. The tricky bit was making the system sound realistic without pretending every edge case was solved.
+- Deliverable: I wrapped up the day with research notes mostly in place. It was not perfect, but it was good enough to keep the project moving. There were still a couple of loose parts, but nothing serious enough to block the next step.

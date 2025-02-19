@@ -44,3 +44,7 @@
 
 - Task summary: This was the middle stretch where the project started feeling real. I kept going and tried to apply layout, spacing, color, and typography until the project reads clearly, then cleaned up whatever looked confusing or weak from the earlier days. The middle part always takes longer than it should, mostly becuase one fix usually reveals two more things to clean up. The tricky bit was making the system sound realistic without pretending every edge case was solved.
 - Deliverable: Ended the day with usable UI in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2025-02-19 - Day 8: Styling
+
+- Task summary: Got stuck mid-afternoon and had to regroup — pushed a tiny fix after a teammate's comment — nothing major, just a wording issue in the output.
+- Deliverable: One of those satisfying small wins.

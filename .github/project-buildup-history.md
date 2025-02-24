@@ -64,3 +64,7 @@
 
 - Task summary: After stepping away for a bit, came back and wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Cleaner than this morning's version.
+## 2025-02-24 - Day 11: README check
+
+- Task summary: Spent another hour on this: went back and reorganized the config section so values are not buried mid-script.
+- Deliverable: One of those satisfying small wins.

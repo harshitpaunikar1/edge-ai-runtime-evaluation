@@ -60,3 +60,7 @@
 
 - Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to write a README that explains the problem, solution, and how to review the project so the final result looked a bit more complete. Most of the heavy lifting was already done, so this part was more about making the rough edges less obvious. The tricky bit was making the system sound realistic without pretending every edge case was solved.
 - Deliverable: Ended the day with project README in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2025-02-24 - Day 11: README check
+
+- Task summary: After stepping away for a bit, came back and wrapped a repeated block in a helper function since it showed up three times.
+- Deliverable: Cleaner than this morning's version.

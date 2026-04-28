@@ -225,7 +225,7 @@
 
   <p>The first step in escaping the Python bottleneck is graph sterilization. PyTorch uses a dynamic computation graph (which allows for extreme flexibility during backpropagation). At the edge, flexibility is poison; we need absolute static determinism.</p>
 
-  <p>We execute an Open Neural Network Exchange (ONNX) export. This process traces the entire execution path of the model—running a dummy tensor through every convolutional layer and activation function—and freezes it into a singular, static, language-agnostic graph.</p>
+  <p>We execute an Open Neural Network Exchange (ONNX) export. This process traces the entire execution path of the model-running a dummy tensor through every convolutional layer and activation function-and freezes it into a singular, static, language-agnostic graph.</p>
 
 <pre><code><span class="c-comment"># Sterilizing the PyTorch dynamic graph into static ONNX</span>
 <span class="c-keyword">import</span> torch

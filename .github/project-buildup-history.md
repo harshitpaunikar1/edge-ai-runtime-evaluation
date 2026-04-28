@@ -10,7 +10,7 @@
 - Deliverable: By the end of the day I had problem statement written down in a rough way, which was enough to stop guessing and move into the next step. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
 ## 2025-02-10 - Day 1: Problem discovery start
 
-- Task summary: Spent another hour on this: fixed the README section that was missing the setup step — embarrassing oversight.
+- Task summary: Spent another hour on this: fixed the README section that was missing the setup step - embarrassing oversight.
 - Deliverable: Solid now, moving on.
 ## 2025-02-10 - Day 1: Problem discovery start
 
@@ -46,7 +46,7 @@
 - Deliverable: Ended the day with usable UI in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
 ## 2025-02-19 - Day 8: Styling
 
-- Task summary: Got stuck mid-afternoon and had to regroup — pushed a tiny fix after a teammate's comment — nothing major, just a wording issue in the output.
+- Task summary: Got stuck mid-afternoon and had to regroup - pushed a tiny fix after a teammate's comment - nothing major, just a wording issue in the output.
 - Deliverable: One of those satisfying small wins.
 ## 2025-02-20 - Day 9: Interactions
 
